@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lazer Defender",
+"productVersion": "0.1",
+"dataUrl": "LazerDefender.data.unityweb",
+"wasmCodeUrl": "LazerDefender.wasm.code.unityweb",
+"wasmFrameworkUrl": "LazerDefender.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
